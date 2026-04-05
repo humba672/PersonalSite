@@ -876,8 +876,11 @@ img {
   }
 
   .feynman-container {
-    width: 250px;
-    height: 225px;
+    display: none;
+  }
+
+  .hero-scroll-indicator {
+    display: none;
   }
 
   .section {
